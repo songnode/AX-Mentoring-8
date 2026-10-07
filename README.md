@@ -1,3 +1,5 @@
+# 접속 : https://bit.ly/3TQzOwP
+
 # AX-Mentoring-8 AI 면접 기출 문제
 
 AI 면접에서 나온 질문 예시입니다. 각 질문의 발표 시간은 5분입니다.
